@@ -27,7 +27,7 @@ The purpose of this project is to build a machine learning model that is able to
 
 
 ## Data
-[The dataset](data/marketing_campaign_data.csv) dataset used in this project contains historical marketing campaign data from the company's customers, including information about demographics, interaction history with marketing campaigns, and purchase behavior. The dataset can be accessed in the data folder. 
+[The dataset](data/marketing_campaign_data.csv) used in this project contains historical marketing campaign data from the company's customers, including information about demographics, interaction history with marketing campaigns, and purchase behavior. The dataset can be accessed in the data folder. 
 
 Some of the attributes in this dataset are : Unnamed: 0, ID, Year_Birth, Education, Marital_Status, Income, Kidhome, Teenhome, Dt_Customer, Recency, MntCoke, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts, MntGoldProds, NumDealsPurchases, NumWebPurchases, NumCatalogPurchases, NumStorePurchases, NumWebVisitsMonth, AcceptedCmp3, AcceptedCmp4, AcceptedCmp5, AcceptedCmp1, AcceptedCmp2, Complain, Z_CostContact, Z_Revenue, Response.
 
