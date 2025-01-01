@@ -123,7 +123,7 @@ In the data cleaning and preprocessing stage, several processes are carried out,
     - Potential increase in average spend for Cluster 1: 1648491.7647058822
     - Potential increase in average purchase for Cluster 1: 24.602352941176473
 
-## Business Recommendations:
+## Business Recommendations
 Based on the interpretation of cluster results and the calculation of the potential impact of marketing retargeting results from existing clusters, the business recommendation is found as follows.
 - **Focus on Potential Clusters**, companies need to do marketing retargeting on clusters with high spending or purchases but still have room for improvement.
 
